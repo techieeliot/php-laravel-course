@@ -8,6 +8,7 @@
 </head>
 <body>
   <h1>Eliot's PHP App</h1>
+  <h2>A Codingphase Course</h2>
   
 </body>
 </html>
